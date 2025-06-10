@@ -1,0 +1,21 @@
+
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+    Javascript is a Scripting type Programming language. It is used to create webpage script (for user interaction) in the frontend and also used in backend to create web-servers
+
+2. What is the difference between client-side and server-side?
+    client side means the frontend (usually the browser environment). Server-side means the backend (it can be any web-servers like Apache,Nodejs server...)
+
+3. What is Nodejs?
+    NodeJs is a javascript runtime used to build backend webserver. It enables the access like File System, Network,... to Javascript language. So that we can use Javascript in the FrontEnd as well as in the BackEnd
+
+4. Explain Scope in JavaScript
+    In Javascript, Scope means the accessible range for a Variable. In variable declaration let and const are Blocked scope os it is only accessible within the block ({}) and its children blocks.
+
+5. JavaScript is asynchronous or synchronous.
+    Javascript is Synchronous. But when we are doing a time taking process we can use Promise to make that as Asynchronous
+
+6. JavaScript is Single-threaded or Multi-threaded.
+    Javascript is single-threaded in nature but it uses multiple threads inside the lib-uv library to accelarate the performance
+
+7. Explain DOM in your own word.
+    DOM - Document Object Modal. It is created in browser for each web-pages to define the structure of the page. By using the DOM we can select, modify, create HTML elements dynamically using Javascript document object within the browser environment.
