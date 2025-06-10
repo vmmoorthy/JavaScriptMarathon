@@ -1,0 +1,26 @@
+
+1. List all the Escape Sequences characters in javascript.
+    \u \t \n \f \r
+
+2. Explain with example length and substring methods in javascript
+    `const name="Moorthy"
+    console.log(name.length) // 7
+    console.log(name.substring(1,5)) // 'oort'
+
+3. What are padStart and padEnd in javascript, explain with an example.
+    padStart and padEnd are string methods in JavaScript that let you add characters to the beginning or end of a string until it reaches a certain length.
+    let str = "7";
+
+    let paddedStart = str.padStart(3, "0");
+    console.log(paddedStart); // Output: "007"
+    
+    let paddedEnd = str.padEnd(3, "0");
+    console.log(paddedEnd); // Output: "700"
+
+
+4. Define Global Object in javascript along with the global scope.
+    In JavaScript, the global object is like the top-level container that holds everything that’s available everywhere in your code.
+
+5. List all the names of Javascript engines present currently. 
+
+    V8, SpiderMonkey,...
