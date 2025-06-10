@@ -1,0 +1,15 @@
+
+1. What is lexical structure?
+    It is elementary structure of any programming language. It defines the basic rules to write a program in any specific programming language.
+
+2. What is Unicode?
+    It is the 16 bit encoding format of multiple language literals. It has unique code for each letter in each language with lot of emoji.
+
+3. Explain all the keywords present in the JavaScript with examples.
+    Keywords in any programming language are special words that has it's own meaning. There are so many keywords in javascript like var,let,const,for,if,switch,break,continue,function,class,...
+
+4. What are shorthand operators, explain with a suitable example?
+    some operator are =,+,-... and we can combine two operator's functionality by writing that in short-hand notation. a+=b is equalent to a=a+b
+
+5. What is “use Strict” in JavaScript?
+    It means Javascript should be executed in "Strict Mode" By declaring "use Strict" we can explicitly say Javascript interpreter to validate the code in best possible way. like we can't varibale without declaring that
